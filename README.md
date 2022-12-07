@@ -35,7 +35,7 @@
 
 - :hammer_and_wrench: I'm studying blockchain.
 
-- :snowboarder: Snowboard is an integral part of my life.
+- :snowboarder: Snowboarding is part of my life.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TerentevOleg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-terentev-spb)
 
