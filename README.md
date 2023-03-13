@@ -37,7 +37,7 @@
 
 - :snowboarder: Snowboarding is part of my life.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TerentevOleg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-terentev-spb)
+- :mailbox: How to reach me: [![Yandex Badge](https://img.shields.io/badge/-Email-yellow?style=flat&logo=Gmail&logoColor=white&href=mailto:terentevekb@gmail.com)](terentevekb@gmail.com)
 
 ---
 
