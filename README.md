@@ -15,14 +15,7 @@
  
  <img src="https://komarev.com/ghpvc/?username=TerentevOleg&style=flat-square&color=2CA5E0" alt=""/>
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="700" height="400"/>
-  </div>
+  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </div>
 
 ---
